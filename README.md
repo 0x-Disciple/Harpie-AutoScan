@@ -12,4 +12,4 @@ npm install"
 
 4. Run
 "shell
-node index.js"
+node index.js
